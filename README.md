@@ -2,6 +2,10 @@
 Basic auto clicker I made for fun and to learn a bit of python with.
 Suggestions welcome.
 
+If you would like to change the look that can all be accessed in the design.py file and all logic can be modified in the logic.py.
+
+I've not documented much as it's new to me and will elaborate on things over time when I have a better way of describing things... I've been a career chef/kitchen hand, be gentle.
+
 ## Default Features
 
 - **Customizable Click Interval**: Set the delay between clicks.
