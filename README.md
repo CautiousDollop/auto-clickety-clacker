@@ -1,7 +1,6 @@
 # auto-clickety-clacker
-basic auto clicker I made for fun and to learn a bit of python with.
-
-A simple and customizable auto clicker application built with Python and Tkinter. This tool allows you to automate mouse clicks with configurable intervals, click types, and more. It also includes features like pause/resume and a kill switch.
+Basic auto clicker I made for fun and to learn a bit of python with.
+Suggestions welcome.
 
 ## Default Features
 
