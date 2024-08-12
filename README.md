@@ -15,7 +15,7 @@ I've not documented much as it's new to me and will elaborate on things over tim
 - **Fixed Position**: Option to click at a fixed screen position.
 - **Pause/Resume**: Ability to pause and resume clicking.
 - **Reset Settings**: Reset all settings to default.
-- **Start Switch**: Use
+- **Start Switch**: Use CTRL to start the auto clicker
 - **Kill Switch**: Use ESC key to stop the auto clicker.
 
 ## Requirements
